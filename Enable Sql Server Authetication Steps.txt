@@ -1,0 +1,2 @@
+//complete step by step sql server authetication//
+https://www.dundas.com/support/learning/documentation/installation/how-to-enable-sql-server-authentication
